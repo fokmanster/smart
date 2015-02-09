@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="icon" format="reference"></item>
+    <item name="color" format="color"></item>
+    <item name="text" format="string"></item>
+    <item name="text_size" format="dimension"></item>
+
+    <declare-styleable>
+        <item name="icon"></item>
+        <item name="color"></item>
+        <item name="text"></item>
+        <item name="text_size"></item>
+    </declare-styleable>
+
+</resources>
